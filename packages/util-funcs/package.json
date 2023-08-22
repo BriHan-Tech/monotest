@@ -1,6 +1,6 @@
 {
   "name": "@monotest/util-funcs",
-  "packageManager": "yarn@1.22.1",
+  "packageManager": "yarn@2.0.0-rc.30",
   "main": "src/index.ts",
   "dependencies": {
     "@monotest/other-util-funcs": "*"
