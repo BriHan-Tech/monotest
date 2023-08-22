@@ -1,0 +1,14 @@
+{
+  "name": "monotest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "dependencies": {
+    "nuxt": "^3.6.5"
+  }
+}
