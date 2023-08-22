@@ -1,5 +1,6 @@
 {
-  "name": "nuxt-app",
+  "name": "@apps/calculator",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "nuxt build",
