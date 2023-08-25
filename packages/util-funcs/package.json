@@ -1,9 +1,9 @@
 {
   "name": "@monotest/util-funcs",
-  "packageManager": "yarn@1.22.1",
+  "packageManager": "pnpm@8.6.12",
   "main": "src/index.ts",
   "dependencies": {
-    "@monotest/other-util-funcs": "*"
+    "@monotest/other-util-funcs": "workspace:*"
   },
   "version": "1.0.0",
   "license": "MIT"
